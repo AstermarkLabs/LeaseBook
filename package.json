@@ -47,7 +47,7 @@
     "@playwright/test": "^1.61.1",
     "@storybook/addon-a11y": "^10.5.0",
     "@storybook/addon-docs": "^10.5.0",
-    "@storybook/addon-vitest": "^10.5.0",
+    "@storybook/addon-vitest": "^10.6.2",
     "@storybook/react-vite": "^10.5.0",
     "@tauri-apps/cli": "^2.11.1",
     "@testing-library/jest-dom": "^6.9.1",
